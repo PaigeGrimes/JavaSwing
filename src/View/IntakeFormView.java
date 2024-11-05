@@ -147,7 +147,7 @@ public class IntakeFormView extends JFrame {
 
     public String getAge() {
         if (ageComboBox.getSelectedItem() != null) {
-            return (String) ageComboBox.getSelectedItem();
+            return String.valueOf(ageComboBox.getSelectedItem());
         } else {
             // If the user doesn't select an age
             return "Age Not Selected";
