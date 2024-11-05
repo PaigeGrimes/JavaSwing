@@ -151,6 +151,7 @@ public class IntakeFormView extends JFrame {
         } else {
             // If the user doesn't select an age
             return "Age Not Selected";
+
         }
     }
 
