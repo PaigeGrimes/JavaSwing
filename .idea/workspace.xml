@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ec166f2-8a92-4d0b-b9b0-b2cce1def319" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSwing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/DataModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View/IntakeFormView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/DisplayFormView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Control/FormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Control/FormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Control/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Control/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/IntakeFormView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/IntakeFormView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/grime/IdeaProjects/FinalProject",
@@ -75,5 +70,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Control/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
